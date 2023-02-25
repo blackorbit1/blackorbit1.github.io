@@ -1,0 +1,4 @@
+FEATURES TODO:
+- switch to a more satifying gun
+- block blink animation on closed eyes
+- make a hue wheel to change emission color

@@ -1,0 +1,7 @@
+ANIMATIONS TODO:
+- bored
+- excited
+- sleepy
+- funny (puff right/left, rolling eyes)
+- eating
+- drunk
