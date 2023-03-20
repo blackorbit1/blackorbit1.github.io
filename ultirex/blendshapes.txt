@@ -1,6 +1,7 @@
 BLENDSHAPES TODO:
 - thinner knees
-/ asian eyes
-- sharper teeths
-- more fluffiness
+X asian eyes
+X sharper teeths
+X more fluffiness
 - bionic
+- sharper claws
